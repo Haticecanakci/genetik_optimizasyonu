@@ -1,5 +1,4 @@
 # genetik_optimizasyonu
-# genetik_optimizasyonu
 # Genetik Algoritma ile Güneş Paneli Optimizasyonu
 
 Bu projede, bir belediyenin güneş enerjisi sistemi kurulumunda güneş panellerinin **eğim açısı (x1)** ve **güneye göre yön sapması (x2)** değerlerini optimize etmek amacıyla **Genetik Algoritma (GA)** kullanılmıştır. Amaç, fiziksel ve yapısal kısıtlar altında **toplam enerji verimini maksimize eden** en uygun parametreleri bulmaktır.
