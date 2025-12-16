@@ -28,8 +28,8 @@ Burada:
 
 ### Kısıtlar
 
-- \( x_1 + 0.5x_2 \le 60 \)
-- \( x_2 \ge 15 \)
+- \( x_1 + 0.5x_2 <= 60 \)
+- \( x_2 >= 15 \)
 
 Kısıtlar, genetik algoritmada **ceza yöntemi** kullanılarak fitness fonksiyonuna entegre edilmiştir.
 
